@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '24799'
     url: http://www.gutenberg.org/2009/agents/24799
     wikipedia: https://en.wikipedia.org/wiki/A._B._Frost
+covers:
+- cover_type: archival
+  image_path: 68732-h/images/cover.jpg
 creator:
   author:
     agent_name: Alden, W. L. (William Livingston)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34366
     wikipedia: https://en.wikipedia.org/wiki/William_L._Alden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68732#The-moral-pirates
 gutenberg_issued: '2022-08-12'
 identifiers:
   gutenberg: '68732'
